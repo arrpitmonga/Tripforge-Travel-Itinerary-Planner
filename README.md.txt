@@ -223,7 +223,7 @@ You are free to use, modify, and distribute the software under the terms of the 
 
 Contributors
 
-Developer & Machine Learning Engineer: [Your Name]
+Developers & Machine Learning Engineers: Arpit Monga, Parth Bhoir, Pranay Gaikwad, Neel Rawale
 Project: Tripforge – AI Travel Itinerary Planner
 Year: 2025
 
@@ -231,3 +231,7 @@ Summary
 
 Tripforge is a region-aware, budget-conscious, offline AI system that transforms travel data into actionable itineraries.
 It generates realistic, data-driven travel plans entirely on-device, enabling users to explore intelligently without needing an internet connection.
+
+### Model Download
+The latest trained TensorFlow Lite model can be downloaded from the
+[Tripforge v1.0.0 Release](https://github.com/arrpitmonga/Tripforge-Travel-Itinerary-Planner/releases/latest).
