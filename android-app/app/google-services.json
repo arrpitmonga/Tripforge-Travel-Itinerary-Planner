@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393179154379",
+    "project_id": "travelitineraryplanner-7b7dc",
+    "storage_bucket": "travelitineraryplanner-7b7dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393179154379:android:64ad028381d7b82620d84e",
+        "android_client_info": {
+          "package_name": "com.example.travelitineraryplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSHJXrRHWcvnAIpdYISSObVB5OFmyHhcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

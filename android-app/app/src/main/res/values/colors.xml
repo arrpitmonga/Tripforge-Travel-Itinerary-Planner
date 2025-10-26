@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Modern Color Palette -->
+    <color name="primary_blue">#000000</color>
+    <color name="primary_blue_dark">#000000</color>
+    <color name="primary_blue_light">#333333</color>
+    
+    <!-- Legacy color names for compatibility -->
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="primary_color">#000000</color>
+    <color name="primary_dark">#000000</color>
+    <color name="accent_color">#FFFFFF</color>
+    
+    <!-- Neutral Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_50">#F9FAFB</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_300">#D1D5DB</color>
+    <color name="gray_400">#9CA3AF</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_800">#1F2937</color>
+    <color name="gray_900">#111827</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#F9FAFB</color>
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_color">#F9FAFB</color>
+    <color name="surface_color">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#111827</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_orange">#F59E0B</color>
+    <color name="accent_green">#10B981</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="accent_purple">#8B5CF6</color>
+    
+    <!-- Chip Colors -->
+    <color name="chip_background">#EFF6FF</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="error_color">#EF4444</color>
+    <color name="badge_background">#F59E0B</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#2563EB</color>
+    <color name="gradient_end">#3B82F6</color>
+</resources>

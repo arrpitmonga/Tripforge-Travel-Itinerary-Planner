@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.h5
+*.ckpt
+/saved_model/
+*.joblib
+*.pb
+
+# Android
+**/build/
+**/.gradle/
+local.properties
+*.iml
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

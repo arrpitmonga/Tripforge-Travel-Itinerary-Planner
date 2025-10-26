@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/black">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Top Bar with Tripforge and Logout -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="16dp"
+            android:background="@color/black">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tripforge"
+                android:textSize="24sp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/outfit_bold"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true" />
+
+            <Button
+                android:id="@+id/logoutButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Logout"
+                android:textColor="@color/white"
+                android:background="@android:color/transparent"
+                android:fontFamily="@font/outfit_medium"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:stateListAnimator="@android:anim/fade_in" />
+        </RelativeLayout>
+
+        <!-- Header Section -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
+            android:background="@color/black">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Welcome to Tripforge"
+                android:textSize="24sp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/outfit_bold"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/userNameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hello, Traveler!"
+                android:textSize="18sp"
+                android:textColor="@color/white"
+                android:fontFamily="@font/outfit_medium"
+                android:alpha="0.8" />
+        </LinearLayout>
+
+        <!-- Action Cards -->
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="24dp">
+
+            <!-- Create Trip Card -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="8dp"
+                app:cardBackgroundColor="@color/white"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
+                android:stateListAnimator="@android:anim/fade_in">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="24dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/ic_add_trip"
+                        android:contentDescription="Create Trip"
+                        android:layout_marginBottom="20dp"
+                        android:tint="@color/black" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Create New Trip"
+                        android:textSize="22sp"
+                        android:textStyle="bold"
+                        android:fontFamily="@font/outfit_bold"
+                        android:textColor="@color/black"
+                        android:layout_marginBottom="8dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Plan a new adventure with AI recommendations"
+                        android:textSize="16sp"
+                        android:textColor="@color/gray_700"
+                        android:fontFamily="@font/outfit_medium"
+                        android:gravity="center"
+                        android:lineSpacingExtra="2dp" />
+
+                    <Button
+                        android:id="@+id/createTripButton"
+                        style="@style/Button.Primary"
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:text="@string/get_started"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="24dp"
+                        android:elevation="8dp" />
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+            <!-- My Trips Card -->
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="20dp"
+                app:cardElevation="8dp"
+                app:cardBackgroundColor="@color/gray_800"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?attr/selectableItemBackground"
+                android:stateListAnimator="@android:anim/fade_in">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="24dp"
+                    android:gravity="center">
+
+                    <ImageView
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        android:src="@drawable/ic_history"
+                        android:contentDescription="My Trips"
+                        android:layout_marginBottom="20dp"
+                        android:tint="@color/white" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/my_trips_title"
+                        android:textSize="22sp"
+                        android:textStyle="bold"
+                        android:fontFamily="@font/outfit_bold"
+                        android:textColor="@color/white"
+                        android:layout_marginBottom="8dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/my_trips_subtitle"
+                        android:textSize="16sp"
+                        android:textColor="@color/gray_300"
+                        android:fontFamily="@font/outfit_medium"
+                        android:gravity="center"
+                        android:lineSpacingExtra="2dp" />
+
+                    <Button
+                        android:id="@+id/viewTripsButton"
+                        style="@style/Button.Primary"
+                        android:layout_width="match_parent"
+                        android:layout_height="56dp"
+                        android:text="View My Trips"
+                        android:textSize="18sp"
+                        android:textStyle="bold"
+                        android:layout_marginTop="24dp"
+                        android:elevation="8dp" />
+
+
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

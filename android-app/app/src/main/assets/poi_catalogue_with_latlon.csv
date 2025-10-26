@@ -1,0 +1,324 @@
+state,city,attraction_name,category,description,time_hours,estimated_visit_cost_inr,cost_category,popularity_score,best_time_to_visit,budget_level,popularity_norm,latitude,longitude
+tripura,agartala,ujjayanta palace,palace,historical,1.5,460,medium,15750,all,moderate,0.0034265723775912,23.8369868,91.2827507
+uttar pradesh,agra,taj mahal,mausoleum,historical,2.0,650,medium,1034999,morning,moderate,0.3032145954923954,27.1750075,78.0421013
+uttar pradesh,agra,agra fort,fort,historical,2.0,640,medium,585000,afternoon,moderate,0.1708580166646126,27.1798258,78.0208223
+gujarat,ahmedabad,manek chowk,market,food,2.0,600,medium,215600,night,moderate,0.0622077302884585,23.0231798,72.5889516
+gujarat,ahmedabad,sabarmati ashram,historical,historical,1.5,450,medium,161000,morning,moderate,0.0461484297033529,23.0601651,72.5806382
+gujarat,ahmedabad,kankaria lake,lake,recreational,3.0,910,medium,135000,afternoon,moderate,0.0385011437104455,23.0061433,72.5995212
+gujarat,ahmedabad,science city,science,educational,7.0,2600,high,48400,all,luxury,0.0130297988263768,23.077854,72.494798
+gujarat,ahmedabad,sabarmati riverfront,urban development project,recreational,1.0,300,low,46000,evening,budget,0.0123238955039546,23.0192844,72.5736364
+maharashtra,ajanta,ellora caves,cave,historical,3.0,930,medium,230300,afternoon,moderate,0.0665313881382946,,
+rajasthan,ajmer,ajmer sharif dargah,shrine,religious,1.0,300,low,161000,all,budget,0.0461484297033529,26.4563076,74.6279567
+kerala,alappuzha,alappuzha beach,beach,recreational,1.5,450,medium,49500,all,moderate,0.0133533378491537,9.4824643,76.3199375
+maharastra,alibaug,alibaug beach,beach,recreational,1.5,450,medium,21000,evening,moderate,0.0049707358953898,,
+uttar pradesh,aligarh,aligarh fort,fort,historical,1.0,320,medium,6764,afternoon,moderate,0.0007835526878886,27.9298953,78.0637324
+uttar pradesh,allahabad,triveni sangam,confluence,religious,1.0,300,low,40500,morning,budget,0.0107062003900704,25.4222299,81.8923259
+uttarakhand,almora,binsar wildlife sanctuary,wildlife sanctuary,wildlife,2.0,750,medium,4300,all,moderate,5.8825276868518726e-05,,
+madhya pradesh,amarkantak,narmada udgam temple,temple,religious,1.0,300,low,4400,all,budget,8.823791530277809e-05,,
+andhra pradesh,amravati,amaravathi temple,temple,religious,1.0,300,low,19270,all,budget,0.0044618972504771,,
+punjab,amritsar,golden temple (harmandir sahib),religious site,spiritual,1.5,450,medium,931000,all,moderate,0.27262574564715,31.6199787,74.8765281
+punjab,amritsar,jallianwala bagh,memorial,historical,1.0,300,low,144000,afternoon,budget,0.0411482811695288,31.6208537,74.8801304
+punjab,amritsar,wagah border,border crossing,cultural,2.0,600,medium,81600,evening,moderate,0.022794794786551,31.6236655,74.8793363
+andhra pradesh,anantapur,lepakshi,site,historical,1.5,450,medium,34500,all,moderate,0.0089414420840148,14.6321073,77.6250314
+jammu and kashmir,anantnag,amarnath cave,temple,religious,6.0,1800,high,49500,all,luxury,0.0133533378491537,34.215635,75.5038297
+uttarakhand,auli,auli ski resort,ski resort,adventure,3.0,900,medium,4500,morning,moderate,0.000117650553737,,
+maharastra,aurangabad,ajanta caves,cave,historical,3.0,930,medium,96599,afternoon,moderate,0.0272063964253055,,
+puducherry,auroville,auroville,township,cultural,2.0,600,medium,14349,all,moderate,0.0030145013131272,12.0098532,79.8109509
+uttar pradesh,ayodhya,ram janmabhoomi,religious site,religious,1.0,300,low,12000,all,budget,0.0023235984363064,26.7956398,82.1945757
+karnataka,badami,badami cave temples,cave,religious,1.5,480,medium,92000,all,moderate,0.0258537091837139,15.9183722,75.6843849
+uttarakhand,badrinath,badrinath temple,temple,religious,1.0,300,low,139195,all,budget,0.0397350038927626,30.7446884,79.4911584
+odisha,balasore,chandipur beach,beach,recreational,1.5,450,medium,5880,morning,moderate,0.0005235449641298,,
+madhya pradesh,bandhavgarh,bandhavgarh national park,national park,wildlife,3.0,950,medium,22500,morning,moderate,0.0054119254719037,23.7180358,81.0262902
+karnataka,bandipur,bandipur national park,national park,wildlife,3.0,1200,high,66000,morning,luxury,0.0182064231908065,,
+karnataka,bangalore,lalbagh botanical garden,botanical garden,nature,1.5,470,medium,660000,evening,moderate,0.1929174954903071,,
+karnataka,bangalore,cubbon park,park,nature,1.0,300,low,580800,morning,budget,0.1696226858503737,12.9808954,77.597562
+karnataka,bangalore,iskcon temple bangalore,temple,religious,1.0,300,low,524395,evening,budget,0.1530324871415297,13.0118968,77.551535
+karnataka,bangalore,bangalore palace,palace,historical,2.0,1100,high,378000,morning,luxury,0.1099738551056957,12.9985954,77.5920086
+karnataka,bangalore,vidhana soudha,government building,architectural,0.5,150,low,368000,morning,budget,0.1070325912622698,12.9797454,77.5906167
+andaman and nicobar islands,baratang island,limestone caves,natural feature,nature,1.5,700,medium,6600,morning,moderate,0.0007353159608564,,
+himachal pradesh,barot,barot valley,valley,nature,2.0,600,medium,564000,morning,moderate,0.1646813625934181,,
+chhattisgarh,bastar,chitrakote falls,waterfall,nature,1.5,450,medium,87400,morning,moderate,0.024500727815738,,
+kerala,bekal,bekal fort,fort,historical,1.5,470,medium,99000,all,moderate,0.0279125938741121,12.3922238,75.0327651
+karnataka,bengaluru,orion mall,mall,shopping,2.0,600,medium,810000,all,moderate,0.2370364531416962,13.0109788,77.5552238
+karnataka,bengaluru,wonderla amusement park,amusement park,entertainment,4.0,2090,high,427500,all,luxury,0.1245331111306541,12.8344839,77.4000054
+odisha,berhampur,tara tarini temple,temple,religious,1.0,300,low,4600,all,budget,0.0001470631921712,,
+madhya pradesh,bhimbetka,bhimbetka rock shelters,prehistoric site,archaeological,2.0,625,medium,32199,afternoon,moderate,0.0082646572736425,,
+madhya pradesh,bhopal,madhya pradesh tribal museum,museum,cultural,2.0,610,medium,70500,all,moderate,0.0195299919203482,,
+madhya pradesh,bhopal,sanchi stupa,monument,historical,1.5,480,medium,4700,afternoon,moderate,0.0001764758306055,,
+odisha,bhubaneswar,nandankanan zoological park,zoo,wildlife,3.0,950,medium,356400,afternoon,moderate,0.1036207252038957,,
+odisha,bhubaneswar,lingaraj temple,temple,religious,1.0,300,low,161000,all,budget,0.0461484297033529,20.238369,85.833719
+gujarat,bhuj,white desert,site,nature,2.5,750,medium,55199,evening,moderate,0.0150295641135221,23.8304196,69.5200898
+karnataka,bijapur,gol gumbaz,mausoleum,historical,1.5,470,medium,112500,all,moderate,0.0318833000627371,16.8296264,75.7360096
+rajasthan,bikaner,junagarh fort,fort,historical,2.0,650,medium,144000,all,moderate,0.0411482811695288,28.0223479,73.318133
+himachal pradesh,bir billing,paragliding site,adventure sport,adventure,2.0,3100,high,4800,all,luxury,0.0002058884690398,,
+bihar,bodh gaya,mahabodhi temple,temple,religious,1.5,450,medium,94000,all,moderate,0.0264419619523991,24.6959303,84.9913903
+west bengal,bolpur,kankalitala temple,temple,religious,0.5,150,low,21150,all,budget,0.0050148548530412,,
+himachal pradesh,chamba,chamera lake,lake,recreational,2.0,600,medium,4400,morning,moderate,8.823791530277809e-05,,
+punjab,chandigarh,rock garden,sculpture garden,artistic,2.0,630,medium,225000,all,moderate,0.0649725183012789,,
+tamil nadu,chennai,marina beach,beach,recreational,1.5,450,medium,39000,morning,moderate,0.0102650108135565,13.0532752,80.2833106
+meghalaya,cherrapunji,living root bridge,natural feature,nature,2.0,600,medium,27599,morning,moderate,0.0069116759056666,,
+tamil nadu,chidambaram,nataraja temple,temple,religious,1.0,300,low,131600,all,budget,0.0375011140036806,11.3993037,79.6936521
+karnataka,chikmagalur,mullayanagiri,mountain peak,nature,3.0,900,medium,22500,all,moderate,0.0054119254719037,13.3909217,75.7214034
+odisha,chilika,chilika lake,lake,nature,2.0,600,medium,39000,morning,moderate,0.0102650108135565,,
+madhya pradesh,chitrakoot,chitrakoot falls,waterfall,nature,1.5,450,medium,44000,morning,moderate,0.0117356427352694,,
+rajasthan,chittorgarh,chittorgarh fort,fort,historical,2.0,640,medium,873999,all,moderate,0.2558602476132378,24.8817143,74.6466948
+uttarakhand,chopta,tungnath temple,temple,religious,2.0,600,medium,43200,all,moderate,0.0115003416277954,,
+tamil nadu,coimbatore,marudamalai temple,temple,religious,1.0,300,low,141000,all,budget,0.040265902016501,,
+west bengal,cooch behar,cooch behar palace,palace,historical,1.0,320,medium,40500,all,moderate,0.0107062003900704,,
+karnataka,coorg,abbey falls,waterfall,nature,1.0,300,low,12299,morning,budget,0.0024115422252249,,
+odisha,cuttack,barabati fort,fort,historical,1.0,300,low,58500,all,budget,0.016000475308237,20.4852763,85.8650129
+himachal pradesh,dalhousie,dalai lama temple,temple,religious,1.5,450,medium,70500,all,moderate,0.0195299919203482,,
+himachal pradesh,dalhousie,khajjiar lake,lake,nature,1.5,450,medium,45000,morning,moderate,0.012029769119612,,
+west bengal,darjeeling,tiger hill,sunrise point,nature,1.0,300,low,11250,all,budget,0.0021030036480495,26.9949013,88.2853306
+uttarakhand,dehradun,robber's cave,cave,nature,1.5,475,medium,4500,morning,moderate,0.000117650553737,30.3770123,78.0622066
+delhi,delhi,india gate,war memorial,historical,0.5,150,low,1196000,evening,budget,0.3505692374979373,28.6129332,77.2294928
+delhi,delhi,red fort,fort,historical,2.0,635,medium,675000,afternoon,moderate,0.197329391255446,28.656081,77.2407959
+delhi,delhi,qutub minar,monument,historical,1.0,335,medium,616500,afternoon,moderate,0.1801229977714043,28.524413,77.1854501
+delhi,delhi,lotus temple,temple,religious,1.0,300,low,265500,evening,budget,0.0768846368671539,28.5533586,77.2586006
+delhi,delhi,lodhi garden,park,botanical,1.0,300,low,216000,all,budget,0.0623253808421955,28.5962998,77.2215497
+delhi,delhi,akshardham temple,temple,religious,5.0,1560,high,184000,afternoon,luxury,0.0529133365432325,28.6125167,77.2773184
+delhi,delhi,humayun's tomb,tomb,historical,2.0,630,medium,180000,afternoon,moderate,0.0517368310058622,28.5932856,77.2506468
+delhi,delhi,agrasen ki baoli,stepwell,historical,1.0,300,low,172200,afternoon,budget,0.0494426452079899,28.6260676,77.2250111
+delhi,delhi,national zoological park,zoo,environmental,3.0,980,medium,168099,all,moderate,0.048236432905801,28.6026948,77.247176
+delhi,delhi,jantar mantar,observatory,scientific,2.0,615,medium,130200,morning,moderate,0.037089337065601,28.6271791,77.2166166
+delhi,delhi,waste to wonder park,theme park,environmental,2.0,650,medium,110699,evening,moderate,0.0313535784445361,,
+delhi,delhi,chandni chowk,market,market,3.0,900,medium,105000,afternoon,moderate,0.0296773521801676,28.6559834,77.2321937
+delhi,delhi,national science centre,science,scientific,5.0,1570,high,101200,all,luxury,0.0285596719196658,28.625457,77.1622651
+delhi,delhi,garden of five senses,park,botanical,2.0,635,medium,94299,morning,moderate,0.0265299057413176,28.5137724,77.1983445
+delhi,delhi,sunder nursery,park,botanical,2.0,600,medium,73600,afternoon,moderate,0.0204417837118102,28.5969098,77.2470188
+delhi,delhi,national gallery of modern art,museum,artistic,3.0,920,medium,36000,all,moderate,0.0093826316605287,28.6096334,77.2341764
+jharkhand,deoghar,baba baidyanath temple,temple,religious,1.0,300,low,846000,all,budget,0.2476250029780295,,
+west bengal,digha,digha beach,beach,recreational,1.5,450,medium,40500,morning,moderate,0.0107062003900704,21.6223631,87.5248765
+ladakh,diskit,diskit monastery,monastery,religious,1.0,320,medium,7050,morning,moderate,0.0008676728338106,,
+daman and diu,diu,diu fort,fort,historical,1.5,450,medium,552000,afternoon,moderate,0.161151845981307,20.4148865,72.8334609
+daman and diu,diu,naida caves,cave,nature,1.0,300,low,270000,afternoon,budget,0.0782082055966956,20.7109607,70.980783
+ladakh,dras,dras war memorial,war memorial,historical,1.0,300,low,5760,all,budget,0.0004882497980087,,
+tripura,dumboor,dumboor lake,lake,nature,1.0,300,low,4500,morning,budget,0.000117650553737,,
+gujarat,dwarka,dwarkadhish temple,temple,religious,2.0,600,medium,277300,evening,moderate,0.0803553282023965,22.2377737,68.9675115
+nagaland,dzãƒâ¼kou valley,dzãƒâ¼kou valley,valley,trekking,3.0,900,medium,4700,afternoon,moderate,0.0001764758306055,,
+uttar pradesh,fatehpur sikri,buland darwaza,monument,historical,2.0,640,medium,30800,afternoon,moderate,0.0078531744619472,27.0943123,77.6627939
+gujarat,gandhinagar,akshardham,temple,religious,3.0,900,medium,82800,all,moderate,0.0231477464477621,23.2307543,72.6738324
+gujarat,gandhinagar,dandi kutir,museum,historical,1.5,450,medium,22500,all,moderate,0.0054119254719037,23.2328055,72.631196
+sikkim,gangtok,tsomgo lake,lake,nature,2.0,600,medium,67500,morning,moderate,0.0186476127673204,27.3745308,88.7619799
+sikkim,gangtok,nathula pass,hill,historical,2.0,620,medium,64500,afternoon,moderate,0.0177652336142926,27.3868289,88.8308961
+sikkim,gangtok,baba harbhajan singh temple,temple,religious,1.0,300,low,35250,all,budget,0.0091620368722717,27.3658756,88.8378893
+sikkim,gangtok,rumtek monastery,monastery,religious,1.0,310,medium,16099,morning,moderate,0.0035292224857267,27.2887582,88.56142
+goa,goa,fort aguada,fort,historical,1.5,450,medium,399000,morning,moderate,0.1161505091768902,15.4923866,73.7735976
+goa,goa,basilica of bom jesus,church,historical,1.0,300,low,265500,afternoon,budget,0.0768846368671539,15.5006961,73.9117039
+goa,goa,baga beach,beach,scenic,2.0,600,medium,157500,evening,moderate,0.0451189873581538,15.5573721,73.75098
+goa,goa,dudhsagar falls,waterfall,nature,3.0,1400,high,138000,afternoon,luxury,0.0393835228634732,15.3156176,74.3142493
+goa,goa,miramar beach,beach,scenic,1.5,450,medium,126000,evening,moderate,0.0358540062513621,15.4766811,73.8066757
+goa,goa,palolem beach,beach,scenic,2.0,600,medium,124199,evening,moderate,0.0353242846331611,15.0093077,74.024229
+goa,goa,calangute beach,beach,scenic,2.0,600,medium,114400,evening,moderate,0.032442140192988,15.5424885,73.7555617
+goa,goa,chapora fort,fort,historical,1.0,300,low,79800,evening,budget,0.0222653672947343,15.6059531,73.7352845
+goa,goa,anjuna beach,beach,scenic,2.0,600,medium,79200,evening,moderate,0.0220888914641287,15.5758504,73.7402545
+goa,goa,arambol beach,beach,scenic,2.0,600,medium,46000,evening,moderate,0.0123238955039546,15.6786308,73.7051496
+goa,goa,colva beach,beach,scenic,2.0,600,medium,43000,evening,moderate,0.0114415163509268,15.2857909,73.9105447
+goa,goa,se cathedral,church,historical,1.0,300,low,22500,afternoon,budget,0.0054119254719037,15.5037349,73.9121938
+goa,goa,dr. salim ali bird santuary,bird sanctuary,wildlife,2.0,610,medium,11700,afternoon,moderate,0.0022353605210037,,
+goa,goa,aguada beach,beach,scenic,2.0,600,medium,4500,evening,moderate,0.000117650553737,15.4988795,73.7672505
+karnataka,gokarna,om beach,beach,nature,2.0,600,medium,40500,all,moderate,0.0107062003900704,14.5190647,74.3254238
+uttar pradesh,greater noida,buddh international circuit,race track,sports,2.0,2100,high,3403999,all,luxury,0.9999999999999998,,
+uttar pradesh,greater noida,the grand venice mall,mall,shopping,2.0,600,medium,189000,all,moderate,0.0543839684649455,28.4526337,77.5262656
+andhra pradesh,guntur,uppalapadu bird sanctuary,bird sanctuary,wildlife,1.0,310,medium,308000,all,moderate,0.0893850082017142,16.3069011,80.5136209
+haryana,gurugram,ambience mall,mall,shopping,2.0,600,medium,552000,afternoon,moderate,0.161151845981307,28.5042583,77.0972049
+haryana,gurugram,dlf cyberhub,commercial complex,entertainment,2.0,600,medium,333700,afternoon,moderate,0.0969440562793188,,
+haryana,gurugram,kingdom of dreams,entertainment,entertainment,3.0,2000,high,132000,afternoon,luxury,0.0376187645574177,28.4681299,77.0691264
+assam,guwahati,kamakhya temple,temple,religious,2.0,600,medium,96599,all,moderate,0.0272063964253055,26.165107,91.7059298
+assam,guwahati,pobitora wildlife sanctuary,wildlife sanctuary,wildlife,2.0,1100,high,16280,all,luxury,0.0035824593612927,,
+assam,guwahati,umananda island,island,nature,1.0,300,low,4100,morning,budget,0.0,26.1964855,91.7449949
+madhya pradesh,gwalior,gwalior fort,fort,historical,2.5,825,medium,180000,morning,moderate,0.0517368310058622,26.2235995,78.1665381
+assam,hajo,hayagriva madhava temple,temple,religious,1.0,300,low,405000,all,budget,0.1179152674829457,26.2429185,91.526535
+karnataka,halebidu,halebidu hoysaleswara temple,temple,religious,1.0,315,medium,51700,all,moderate,0.0140004158947074,,
+karnataka,hampi,hampi archaeological ruins,site,historical,3.0,900,medium,23500,all,moderate,0.0057060518562463,,
+uttarakhand,haridwar,har ki pauri,ghat,religious,1.0,300,low,11250,all,budget,0.0021030036480495,29.9566381,78.1708619
+andaman and nicobar islands,havelock island,radhanagar beach,beach,nature,1.0,300,low,43200,morning,budget,0.0115003416277954,,
+ladakh,hemis,hemis national park,national park,wildlife,4.0,1220,high,8800,all,luxury,0.0013823940064101,,
+west bengal,hooghly,hangseswari temple,temple,architectural,0.5,150,low,32199,all,budget,0.0082646572736425,,
+telangana,hyderabad,charminar,landmark,historical,1.0,325,medium,945000,morning,moderate,0.2767435150279463,17.3616024,78.4746421
+telangana,hyderabad,inorbit mall cyberabad,mall,shopping,2.0,600,medium,540000,all,moderate,0.1576223293691959,17.4345546,78.3866982
+telangana,hyderabad,golconda fort,fort,historical,2.0,630,medium,528000,morning,moderate,0.1540928127570848,17.3833665,78.4010991
+telangana,hyderabad,nehru zoological park,zoo,wildlife,3.0,950,medium,361200,morning,moderate,0.1050325318487401,17.3514419,78.4455598
+telangana,hyderabad,lumbini park,park,recreational,1.0,320,medium,299300,evening,moderate,0.0868261086579336,17.4097139,78.4728234
+telangana,hyderabad,salar jung museum,museum,historical,2.0,620,medium,294800,all,moderate,0.0855025399283919,17.371392,78.4801498
+telangana,hyderabad,hussain sagar lake,lake,scenic,1.0,300,low,215000,evening,budget,0.0620312544578529,17.4229113,78.475421
+telangana,hyderabad,ramoji film city,film studio,entertainment,4.0,2350,high,198000,all,luxury,0.0570311059240289,17.2524153,78.6798949
+telangana,hyderabad,chowmahalla palace,palace,historical,1.5,530,medium,198000,morning,moderate,0.0570311059240289,17.3575817,78.4717055
+telangana,hyderabad,birla mandir,temple,religious,1.0,300,low,192700,all,budget,0.0554722360870131,17.4056977,78.4692594
+telangana,hyderabad,qutb shahi tombs,tombs,historical,1.0,325,medium,88000,morning,moderate,0.0246772036463436,17.3973713,78.4001622
+madhya pradesh,indore,rajwada palace,palace,historical,1.0,310,medium,277200,afternoon,moderate,0.0803259155639623,22.7184344,75.8547755
+madhya pradesh,jabalpur,dhuandhar falls,waterfall,nature,1.0,300,low,4500,morning,budget,0.000117650553737,23.125398,79.8134415
+rajasthan,jaipur,amber fort,fort,historical,2.0,700,medium,690000,all,moderate,0.2017412870205849,26.9863104,75.8506607
+rajasthan,jaipur,hawa mahal,palace,architectural,1.0,350,medium,572000,morning,moderate,0.1670343736681589,26.923932,75.8268652
+rajasthan,jaipur,albert hall museum,museum,historical,2.0,800,medium,283500,all,moderate,0.0821789117853206,26.9117053,75.8194973
+rajasthan,jaipur,city palace,palace,historical,2.0,800,medium,224400,morning,moderate,0.0647960424706733,26.9262096,75.8238346
+rajasthan,jaipur,jaigarh fort,fort,historical,1.5,485,medium,135000,all,moderate,0.0385011437104455,26.9837152,75.8452471
+rajasthan,jaisalmer,jaisalmer fort,fort,historical,2.5,800,medium,246400,all,moderate,0.0712668229262104,26.9127655,70.9124933
+west bengal,jalpaiguri,gorumara national park,national park,wildlife,3.0,1000,medium,30800,all,moderate,0.0078531744619472,26.7474882,88.8145859
+jammu and kashmir,jammu,vaishno devi,temple,religious,5.0,1500,high,258500,all,luxury,0.0748257521767558,33.027399,74.945375
+uttar pradesh,jhansi,jhansi fort,fort,historical,1.5,465,medium,110000,all,moderate,0.0311479841018806,25.4573176,78.5754799
+uttarakhand,jim corbett,jim corbett national park,national park,wildlife,3.0,1000,medium,132000,all,moderate,0.0376187645574177,,
+rajasthan,jodhpur,mehrangarh fort,fort,historical,2.0,700,medium,294400,all,moderate,0.0853848893746549,26.2995407,73.0195132
+uttarakhand,joshimath,valley of flowers,national park,nature,5.0,1650,high,16450,morning,luxury,0.003632460846631,30.7056798,79.5958552
+gujarat,junagadh,gir national park,national park,wildlife,3.0,4400,high,36000,morning,luxury,0.0093826316605287,21.1267789,70.7747952
+andhra pradesh,kadapa,gandikota fort,fort,historical,1.5,450,medium,6750,morning,moderate,0.0007794349185078,14.8133184,78.2874575
+himachal pradesh,kangra,kangra fort,fort,historical,2.0,750,medium,44000,all,moderate,0.0117356427352694,32.0867046,76.2533449
+madhya pradesh,kanha,kanha national park,wildlife sanctuary,wildlife,3.0,1000,medium,45000,morning,moderate,0.012029769119612,,
+kerala,kannur,st. angelo fort,fort,historical,1.0,320,medium,48400,all,moderate,0.0130297988263768,11.8541212,75.3719755
+uttar pradesh,kanpur,allen forest zoo,zoo,wildlife,2.0,750,medium,88200,all,moderate,0.0247360289232121,,
+tamil nadu,kanyakumari,vivekananda rock memorial,memorial,historical,1.0,320,medium,216199,morning,moderate,0.0623839119926797,8.0783202,77.5549562
+ladakh,kargil,kargil war memorial,war memorial,historical,1.0,300,low,5280,all,budget,0.0003470691335242,,
+assam,kaziranga,kaziranga national park,national park,wildlife,3.0,1550,high,30600,morning,luxury,0.0077943491850787,26.5863767,93.4020882
+uttarakhand,kedarnath,kedarnath,temple,religious,1.5,450,medium,960000,all,moderate,0.2811554107930852,30.7351837,79.0668727
+odisha,kendujhar,sanaghagara waterfall,waterfall,nature,1.0,300,low,24200,all,budget,0.0059119403252861,,
+odisha,keonjhar,badaghagara waterfall,waterfall,nature,1.0,300,low,7735,morning,budget,0.0010691494070853,,
+gujarat,kevadia,statue of unity,monument,historical,3.0,1250,high,308200,all,luxury,0.0894438334785827,,
+madhya pradesh,khajuraho,khajuraho group of monuments,temples,cultural,2.0,640,medium,42300,afternoon,moderate,0.011235627881887,,
+himachal pradesh,kinnaur,sangla valley,valley,nature,2.0,600,medium,4500,morning,moderate,0.000117650553737,31.3533438,78.3540103
+jammu and kashmir,kishtwar,kishtwar national park,national park,wildlife,3.0,1000,medium,4300,all,moderate,5.8825276868518726e-05,33.5673765,75.9801829
+kerala,kochi,lulu international shopping mall,mall,shopping,3.0,900,medium,873999,all,moderate,0.2558602476132378,10.0272184,76.3078873
+kerala,kochi,wonderla amusement park,amusement park,entertainment,5.5,2400,high,188599,all,luxury,0.0542660237848241,,
+kerala,kochi,fort kochi,site,historical,1.0,300,low,44000,all,budget,0.0117356427352694,9.967569,76.2421901
+kerala,kochi,kerala folklore museum,cultural,cultural,1.5,550,medium,44000,all,moderate,0.0117356427352694,,
+tamil nadu,kodaikanal,kodaikanal lake,lake,recreational,2.0,600,medium,39000,morning,moderate,0.0102650108135565,10.234003,77.4865229
+maharastra,kolhapur,mahalakshmi temple,temple,religious,1.0,300,low,432000,all,budget,0.1258566798601958,16.6948575,74.2228947
+west bengal,kolkata,howrah bridge,bridge,architectural,0.5,150,low,552000,anytime,budget,0.161151845981307,22.5850528,88.3469761
+west bengal,kolkata,science city kolkata,science,educational,3.0,960,medium,387200,all,moderate,0.1126798178416476,22.5400604,88.3958472
+west bengal,kolkata,dakshineswar kali temple,temple,religious,1.0,300,low,385400,morning,budget,0.1121503903498309,22.654827,88.3575776
+west bengal,kolkata,victoria memorial,museum,historical,1.5,480,medium,335800,morning,moderate,0.0975617216864383,22.5449558,88.3425545
+west bengal,kolkata,alipore zoological gardens,zoo,wildlife,2.0,625,medium,283800,afternoon,moderate,0.0822671497006234,,
+west bengal,kolkata,belur math,site,religious,1.5,450,medium,220900,morning,moderate,0.0637666001254743,,
+west bengal,kolkata,kalighat kali temple,temple,religious,1.0,300,low,220000,morning,budget,0.0635018863795659,22.520211,88.3420596
+west bengal,kolkata,indian museum,museum,historical,2.0,650,medium,82800,morning,moderate,0.0231477464477621,22.5575863,88.3510335
+west bengal,kolkata,marble palace,palace,historical,1.0,300,low,44000,afternoon,budget,0.0117356427352694,22.5821271,88.3602101
+west bengal,kolkata,eden gardens,cricket ground,sports,3.0,3400,high,41000,all,luxury,0.0108532635822417,22.5646093,88.3423371
+odisha,konark,sun temple,temple,historical,1.5,490,medium,390100,all,moderate,0.1135327843562411,19.8875639,86.0944894
+kerala,kovalam,kovalam beach,beach,recreational,2.0,600,medium,299200,all,moderate,0.0867966960194993,8.3950997,76.9729934
+kerala,kozhikode,kozhikode beach,beach,recreational,1.5,450,medium,23010,all,moderate,0.0055619299279184,11.255511,75.7697038
+himachal pradesh,kufri,kufri fun world,ski resort,recreational,5.0,3000,high,38000,all,luxury,0.0099708844292139,,
+himachal pradesh,kullu,great himalayan national park,national park,wildlife,3.0,950,medium,90000,all,moderate,0.0252654564150287,31.7968335,77.7239269
+kerala,kumarakom,kumarakom bird sanctuary,bird sanctuary,wildlife,2.0,650,medium,38000,all,moderate,0.0099708844292139,,
+andhra pradesh,kurnool,belum caves,cave,natural wonder,1.5,515,medium,48400,afternoon,moderate,0.0130297988263768,,
+ladakh,leh,pangong tso,lake,nature,2.0,620,medium,73500,morning,moderate,0.020412371073376,33.6850323,78.720047
+ladakh,leh,magnetic hill,gravity hill,nature,0.5,150,low,37000,all,budget,0.0096767580448713,34.1709853,77.3524824
+ladakh,leh,thiksey monastery,monastery,religious,1.5,470,medium,23500,all,moderate,0.0057060518562463,34.0565625,77.6667387
+ladakh,leh,khardung la pass,hill,adventure,1.0,300,low,22500,afternoon,budget,0.0054119254719037,,
+maharastra,lonavala,imagicaa,amusement park,recreational,5.0,2649,high,133000,all,luxury,0.0379128909417603,,
+maharastra,lonavala,karla caves,cave,historical,1.5,475,medium,118800,afternoon,moderate,0.0337362962840954,,
+uttar pradesh,lucknow,bara imambara,monument,historical,1.5,500,medium,198000,all,moderate,0.0570311059240289,26.8686449,80.912496
+uttar pradesh,lucknow,phoenix palassio,mall,shopping,2.0,600,medium,161000,all,moderate,0.0461484297033529,26.8087716,81.0127929
+tamil nadu,madurai,meenakshi amman temple,temple,religious,2.0,600,medium,305500,all,moderate,0.0886496922408577,9.9195433,78.1188334
+tamil nadu,mahabalipuram,shore temple,temple,historical,1.0,340,medium,41400,all,moderate,0.0109709141359787,12.6166214,80.199159
+assam,majuli,majuli island,river island,cultural,2.0,600,medium,4700,morning,moderate,0.0001764758306055,27.0129015,94.2746854
+himachal pradesh,manali,solang valley,valley,adventure,2.0,600,medium,20500,morning,moderate,0.0048236727032185,32.3160963,77.1565572
+assam,manas,manas national park,national park,wildlife,3.0,1400,high,87400,morning,luxury,0.024500727815738,,
+himachal pradesh,mandi,prashar lake,lake,nature,1.5,450,medium,4600,morning,moderate,0.0001470631921712,31.7544774,77.1016413
+madhya pradesh,mandu,jahaz mahal,site,historical,1.0,350,medium,11700,afternoon,moderate,0.0022353605210037,,
+karnataka,mangalore,panambur beach,beach,recreational,1.5,450,medium,45000,all,moderate,0.012029769119612,12.9384859,74.8103562
+himachal pradesh,manikaran,manikaran sahib,gurudwara,religious,1.0,300,low,598000,morning,budget,0.1746816596610663,32.0269237,77.3449068
+maharashtra,matheran,echo point,viewpoint,nature,1.5,450,medium,8800,morning,moderate,0.0013823940064101,18.9862195,73.2611377
+uttar pradesh,mathura,krishna janmabhoomi,temple,religious,1.0,300,low,61100,all,budget,0.0167652039075278,,
+uttar pradesh,mathura,barsana mandir,temple,religious,1.0,300,low,48000,morning,budget,0.0129121482726398,,
+uttar pradesh,mathura,nand gaon,village,cultural,1.0,300,low,4100,morning,budget,0.0,,
+himachal pradesh,mcleod ganj,triund trek,trekking,adventure,5.0,1500,high,4800,morning,luxury,0.0002058884690398,,
+uttar pradesh,meerut,augarnath temple,temple,religious,1.0,300,low,21600,all,budget,0.0051472117259953,,
+rajasthan,mount abu,dilwara temples,temple,religious,1.0,300,low,23000,all,budget,0.005558988664075,,
+maharastra,mumbai,gateway of india,monument,historical,1.0,300,low,1655999,all,budget,0.4858670801691461,18.9219661,72.8345657
+maharastra,mumbai,marine drive,promenade,scenic,2.0,600,medium,675000,evening,moderate,0.197329391255446,18.9306176,72.8223499
+maharastra,mumbai,siddhivinayak temple,temple,religious,2.0,600,medium,504000,all,moderate,0.1470337795328625,19.0169869,72.8302725
+maharastra,mumbai,sanjay gandhi national park,national park,wildlife,3.0,950,medium,258000,all,moderate,0.0746786889845845,19.215041,72.9121984
+maharastra,mumbai,chhatrapati shivaji maharaj vastu sangrahalaya,museum,historical,1.0,800,medium,156400,all,moderate,0.044795448335377,18.9268772,72.8325921
+maharastra,mumbai,mahalaxmi temple,temple,religious,1.0,300,low,155100,all,budget,0.0444130840357316,,
+maharastra,mumbai,elephanta caves,monument,historical,4.0,1750,high,150500,all,luxury,0.0430601026677557,,
+maharastra,mumbai,essel world,amusement park,recreational,5.0,2649,high,116100,all,luxury,0.0329421550463704,19.2253824,72.8080979
+maharastra,mumbai,haji ali dargah,religious shrine,religious,2.0,600,medium,70400,all,moderate,0.0195005792819139,18.9828229,72.8089926
+maharastra,mumbai,chowpatty beach,beach,recreational,2.0,600,medium,21500,evening,moderate,0.0051177990875611,18.954359,72.8128787
+kerala,munnar,munnar tea gardens,scenic area,nature,2.0,600,medium,129000,all,moderate,0.0367363854043899,,
+west bengal,murshidabad,hazarduari palace,palace,historical,1.5,460,medium,81000,morning,moderate,0.0226183189559454,,
+karnataka,murudeshwar,murudeshwar temple,temple,religious,1.0,300,low,230300,all,budget,0.0665313881382946,,
+uttarakhand,mussoorie,kempty falls,waterfall,nature,1.5,465,medium,231000,morning,moderate,0.0667372766073345,,
+karnataka,mysore,mysore palace,palace,historical,2.0,650,medium,1150000,all,moderate,0.337039423818178,12.3052196,76.6553846
+maharastra,nagpur,deekshabhoomi,monument,religious,1.0,300,low,49500,afternoon,budget,0.0133533378491537,21.1282013,79.06693
+uttarakhand,nainital,naini lake,lake,nature,1.5,450,medium,4200,morning,moderate,2.9412638434259363e-05,29.3855849,79.4604798
+sikkim,namchi,char dham,religious complex,religious,2.0,650,medium,56400,all,moderate,0.0153828099011176,27.1735348,88.321995
+himachal pradesh,narkanda,hatu peak,viewpoint,nature,2.0,600,medium,495000,all,moderate,0.1443866420737792,,
+maharastra,nashik,sula vineyards,vineyard,recreational,2.0,900,medium,41000,afternoon,moderate,0.0108532635822417,20.0064403,73.6876504
+andaman and nicobar islands,neil island,bharatpur beach,beach,nature,1.0,300,low,18000,morning,budget,0.004088356742362,,
+kerala,nelliyampathy,seethargundu viewpoint,viewpoint,nature,1.0,300,low,13500,morning,budget,0.0027647880128203,,
+delhi,new delhi,gurudwara bangla sahib,gurudwara,religious,1.0,300,low,504000,all,budget,0.1470337795328625,28.6280479,77.2093211
+delhi,new delhi,jama masjid,mosque,historical,1.0,300,low,220500,all,budget,0.0636489495717372,28.595544,77.1213161
+delhi,new delhi,rail museum,museum,cultural,2.0,650,medium,105600,morning,moderate,0.0298538280107732,28.5855294,77.1803985
+uttar pradesh,noida,dlf mall of india,mall,shopping,2.0,600,medium,690000,all,moderate,0.2017412870205849,28.5674442,77.321124
+uttar pradesh,noida,okhla bird sanctuary,bird sanctuary,wildlife,1.5,480,medium,15050,all,moderate,0.0032206839085514,28.5569866,77.3090031
+ladakh,nubra valley,nubra valley,valley,nature,2.0,600,medium,45000,all,moderate,0.012029769119612,,
+tamil nadu,ooty,ooty lake,lake,recreational,1.0,310,medium,250099,morning,moderate,0.0723547964218936,11.403417,76.6916789
+madhya pradesh,orchha,orchha fort,fort,historical,1.5,460,medium,48000,afternoon,moderate,0.0129121482726398,25.3499086,78.6443859
+madhya pradesh,pachmarhi,bee falls,waterfall,nature,1.5,465,medium,29899,morning,moderate,0.0075881665896545,,
+jammu and kashmir,pahalgam,betaab valley,valley,nature,2.0,700,medium,50599,all,moderate,0.0136765827455462,,
+himachal pradesh,palampur,tea gardens,tea plantation,agricultural,1.5,450,medium,6899,morning,moderate,0.0008232597497749,32.1210671,76.5264001
+bihar,patna,sanjay gandhi biological park,zoo,wildlife,2.5,780,medium,215000,all,moderate,0.0620312544578529,,
+bihar,patna,budhha smriti park,park,cultural,1.0,310,medium,136400,all,moderate,0.0389129206485251,,
+bihar,patna,takhat shri harimandir ji patna sahib,gurudwara,religious,1.0,300,low,117500,all,budget,0.0333539319844501,,
+sikkim,pelling,pemayangtse monastery,monastery,religious,1.0,320,medium,6899,morning,moderate,0.0008232597497749,,
+uttar pradesh,porbandar,kirti mandir,memorial,historical,1.0,300,low,14400,morning,budget,0.0030295017587287,,
+andaman and nicobar islands,port blair,cellular jail,landmark,historical,1.5,480,medium,56400,afternoon,moderate,0.0153828099011176,11.6744456,92.7477856
+puducherry,puducherry,promenade beach,beach,recreational,1.0,300,low,40500,morning,budget,0.0107062003900704,11.9321674,79.8360554
+puducherry,puducherry,paradise beach,beach,recreational,1.0,500,medium,6750,morning,moderate,0.0007794349185078,11.869834,79.8198877
+maharastra,pune,shaniwar wada,fort,historical,2.0,650,medium,528000,all,moderate,0.1540928127570848,18.5193825,73.8553566
+odisha,puri,jagannath temple,temple,religious,2.0,600,medium,470000,all,moderate,0.1370334824652143,19.8047726,85.8180811
+west bengal,purulia,ayodhya hills,hill,nature,2.5,750,medium,67500,all,moderate,0.0186476127673204,,
+rajasthan,pushkar,pushkar lake,temple,religious,1.5,450,medium,704000,all,moderate,0.2058590564013812,26.4875533,74.5540466
+andhra pradesh,puttaparthi,prasanthi nilayam,spiritual center,religious,1.0,300,low,56400,all,budget,0.0153828099011176,14.1658687,77.8077625
+andhra pradesh,rajahmundry,papikondalu,hill,nature,2.0,600,medium,13760,all,moderate,0.0028412608727494,,
+tamil nadu,rameswaram,ramanathaswamy temple,temple,religious,1.5,450,medium,4600,all,moderate,0.0001470631921712,9.2880968,79.3173756
+jharkhand,ranchi,pahari mandir,temple,religious,1.0,300,low,59799,all,budget,0.0163825454814981,23.3781129,85.3119723
+uttarakhand,ranikhet,chaubatia gardens,orchard,recreational,1.0,350,medium,10000,all,moderate,0.0017353456676213,,
+gujarat,rann of kutch,rann utsav,cultural,cultural,3.0,5000,high,49000,evening,luxury,0.0132062746569824,,
+maharastra,ratnagiri,ganapatipule temple,temple,religious,1.0,300,low,47000,all,budget,0.0126180218882972,,
+sikkim,ravangla,buddha park,park,cultural,1.0,350,medium,48000,all,moderate,0.0129121482726398,27.3116732,88.3635699
+uttarakhand,rishikesh,laxman jhula,suspension bridge,cultural,1.0,300,low,13200,morning,budget,0.0026765500975176,,
+odisha,rourkela,khandadhar waterfall,waterfall,nature,1.5,450,medium,540000,all,moderate,0.1576223293691959,,
+odisha,sambalpur,hirakud dam,dam,engineering marvel,1.0,300,low,4500,all,budget,0.000117650553737,21.5492431,83.9011286
+uttar pradesh,sarnath,dhamek stupa,monument,historical,1.0,305,medium,29899,all,moderate,0.0075881665896545,,
+maharashtra,satara,kaas plateau,valley,nature,2.0,900,medium,22000,afternoon,moderate,0.0052648622797324,,
+rajasthan,sawai madhopur,ranthambore national park,wildlife sanctuary,wildlife,3.0,1400,high,41400,all,luxury,0.0109709141359787,,
+himachal pradesh,shimla,the ridge,scenic point,recreational,1.0,300,low,14100,morning,budget,0.0029412638434259,31.1047906,77.1752833
+maharastra,shirdi,sai baba temple,temple,religious,1.5,450,medium,324300,all,moderate,0.0941792682664984,19.7693867,74.4776481
+karnataka,shivamogga,jog falls,waterfall,nature,1.5,480,medium,105799,morning,moderate,0.0299123591612574,14.2292983,74.8123093
+himachal pradesh,shoja,serolsar lake,lake,nature,2.5,750,medium,396000,morning,moderate,0.1152681300238624,,
+west bengal,siliguri,jaldapara national park,wildlife sanctuary,wildlife,3.0,1150,high,15400,all,luxury,0.0033236281430713,,
+assam,sivasagar,sivasagar sivadol,temple,historical,1.0,300,low,30550,all,budget,0.0077796428658616,,
+gujarat,somnath,somnath temple,temple,religious,2.0,600,medium,187200,morning,moderate,0.0538545409731288,20.8877578,70.4013836
+himachal pradesh,spiti valley,key monastery,monastery,religious,1.0,300,low,12000,morning,budget,0.0023235984363064,,
+jammu and kashmir,srinagar,dal lake,lake,nature,2.0,600,medium,69000,morning,moderate,0.0190888023438343,34.1137233,74.8700063
+andhra pradesh,srisailam,mallikarjuna swamy temple,temple,religious,1.0,300,low,230300,all,budget,0.0665313881382946,,
+west bengal,sundarbans,sundarbans national park,national park,wildlife,4.0,1260,high,28600,all,luxury,0.0072060964163935,,
+maharashtra,tarkarli,tarkarli beach,beach,recreational,2.0,600,medium,29899,evening,moderate,0.0075881665896545,16.014689,73.4895302
+arunachal pradesh,tawang,tawang monastery,monastery,religious,2.0,600,medium,15040,morning,moderate,0.0032177426447079,27.5866091,91.8573902
+tamil nadu,thanjavur,brihadeeswarar temple,temple,religious,1.5,450,medium,168000,all,moderate,0.048207314393751,10.78258,79.1313819
+kerala,thekkady,periyar national park,national park,wildlife,3.0,950,medium,60200,all,moderate,0.0165004901616195,,
+kerala,thiruvananthapuram,padmanabhaswamy temple,temple,religious,1.0,300,low,216200,all,budget,0.0623842061190641,8.4827027,76.9438872
+tamil nadu,tirunelveli,nellaiappar temple,temple,religious,1.0,300,low,73600,all,budget,0.0204417837118102,8.7284759,77.688951
+rajasthan,udaipur,lake pichola,lake,nature,1.0,300,low,229999,all,budget,0.0664428560966075,24.5696217,73.6721833
+rajasthan,udaipur,city palace,palace,historical,2.0,900,medium,224400,all,moderate,0.0647960424706733,24.5760597,73.6835668
+jammu and kashmir,udhampur,patnitop height,hill,recreational,2.0,600,medium,4100,all,moderate,0.0,,
+madhya pradesh,ujjain,mahakaleshwar jyotirlinga,temple,religious,1.5,450,medium,576000,all,moderate,0.1682108792055293,,
+tripura,unakoti,unakoti rock carvings,rock carvings,historical,1.5,470,medium,11250,morning,moderate,0.0021030036480495,,
+uttarakhand,uttarkashi,gangotri temple,temple,religious,1.0,300,low,24000,all,budget,0.0058531150484176,30.9944345,78.9411466
+gujarat,vadodara,laxmi vilas palace,palace,historical,2.0,800,medium,74800,afternoon,moderate,0.0207947353730213,22.2918544,73.1883335
+uttar pradesh,varanasi,kashi vishwanath temple,temple,religious,1.0,300,low,423000,all,budget,0.1232095424011124,25.3108219,83.0106679
+kerala,varkala,varkala beach,beach,recreational,2.0,600,medium,46000,all,moderate,0.0123238955039546,8.7332285,76.7054245
+andhra pradesh,vijayawada,kanaka durga temple,temple,religious,1.0,300,low,206800,all,budget,0.0596194181062437,16.5154312,80.6062147
+andhra pradesh,visakhapatnam,submarine museum,museum,historical,1.0,340,medium,225399,all,moderate,0.0650898747286316,17.7170864,83.3298119
+andhra pradesh,visakhapatnam,rishikonda beach,beach,recreational,1.5,450,medium,175500,morning,moderate,0.0504132622763205,,
+andhra pradesh,visakhapatnam,borra caves,cave,natural wonder,2.0,660,medium,139500,afternoon,moderate,0.0398247124399871,,
+andhra pradesh,visakhapatnam,indira gandhi zoological park,zoo,wildlife,2.0,620,medium,102499,afternoon,moderate,0.0289417420929268,17.7660894,83.3494389
+andhra pradesh,visakhapatnam,visakha museum,museum,cultural,1.0,310,medium,27950,all,moderate,0.0070149142665708,17.7208267,83.3338207
+andhra pradesh,visakhapatnam,war memorial,war memorial,historical,1.0,300,low,27139,all,budget,0.006776377768869,,
+andhra pradesh,visakhapatnam,matsyadarshini aquarium,aquarium,recreational,1.0,320,medium,11400,all,moderate,0.0021471226057009,17.7128522,83.3199058
+andhra pradesh,visakhapatnam,kailasagiri,hill,recreational,2.0,600,medium,8550,all,moderate,0.0013088624103245,17.7499572,83.3396922
+andhra pradesh,vizianagaram,simhachalam temple,temple,religious,1.0,300,low,277300,all,budget,0.0803553282023965,18.1125882,83.411064
+uttar pradesh,vrindavan,prem mandir,temple,religious,1.5,450,medium,235200,evening,moderate,0.0679726074215733,27.5720889,77.672038
+uttar pradesh,vrindavan,banke bihari temple,temple,religious,1.0,300,low,177600,all,budget,0.0510309276834399,,
+kerala,wayanad,wayanad wildlife sanctuary,wildlife sanctuary,wildlife,3.0,1200,high,990000,all,luxury,0.289979202323363,11.7645326,76.2436909
+tamil nadu,yercaud,yercaud lake,lake,recreational,1.0,300,low,7980,morning,budget,0.0011412103712492,11.7832744,78.2104687

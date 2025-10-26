@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Mode Color Palette -->
+    <color name="primary_blue">#3B82F6</color>
+    <color name="primary_blue_dark">#2563EB</color>
+    <color name="primary_blue_light">#60A5FA</color>
+    
+    <!-- Legacy color names for compatibility -->
+    <color name="colorPrimary">#3B82F6</color>
+    <color name="colorPrimaryDark">#2563EB</color>
+    <color name="colorAccent">#F59E0B</color>
+    <color name="primary_color">#3B82F6</color>
+    <color name="primary_dark">#2563EB</color>
+    <color name="accent_color">#F59E0B</color>
+    
+    <!-- Dark Mode Background Colors -->
+    <color name="background_light">#111827</color>
+    <color name="background_white">#1F2937</color>
+    <color name="background_color">#111827</color>
+    <color name="surface_color">#1F2937</color>
+    
+    <!-- Dark Mode Text Colors -->
+    <color name="text_primary">#F9FAFB</color>
+    <color name="text_secondary">#D1D5DB</color>
+    <color name="text_hint">#6B7280</color>
+    
+    <!-- Dark Mode Accent Colors -->
+    <color name="accent_orange">#F59E0B</color>
+    <color name="accent_green">#10B981</color>
+    <color name="accent_red">#EF4444</color>
+    <color name="accent_purple">#8B5CF6</color>
+    
+    <!-- Dark Mode Chip Colors -->
+    <color name="chip_background">#1E3A8A</color>
+    
+    <!-- Status Colors (same for both modes) -->
+    <color name="success">#10B981</color>
+    <color name="warning">#F59E0B</color>
+    <color name="error">#EF4444</color>
+    <color name="error_color">#EF4444</color>
+    <color name="badge_background">#F59E0B</color>
+    
+    <!-- Dark Mode Gradient Colors -->
+    <color name="gradient_start">#1F2937</color>
+    <color name="gradient_end">#374151</color>
+</resources>
